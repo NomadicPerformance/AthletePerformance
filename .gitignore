@@ -10,3 +10,5 @@ pnpm-debug.log*
 !.env.example
 .vscode/
 .DS_Store
+.env
+.env.local
