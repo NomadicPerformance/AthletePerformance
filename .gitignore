@@ -1,0 +1,12 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+npm-debug.log*
+yarn-*.log*
+pnpm-debug.log*
+
+.env*
+!.env.example
+.vscode/
+.DS_Store
